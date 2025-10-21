@@ -28,9 +28,3 @@
 ---
 
 💬 Si querés contactarme, escribime por [LinkedIn](https://www.linkedin.com/in/facudelboca) o [mail](mailto:facundodelboca@gmail.com).
-
----
-
-### 📊 GitHub Stats
-![Facundo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=facudelboca&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=facudelboca&layout=compact&theme=radical)
